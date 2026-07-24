@@ -1,15 +1,26 @@
 # Guelph HVAC Pros
 
-> Licensed, insured HVAC company in Guelph, Ontario. A full-service heating and cooling team handling furnace and AC repair, heat pumps, ductless systems, thermostats, and duct cleaning, plus seasonal maintenance, for homeowners across Guelph and Wellington County. Call (519) 837-4021.
+> Guelph HVAC Pros is a local HVAC company serving Guelph, Wellington County, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 837-4021  |  Email: contact@guelphhvacpros.ca  |  Website: https://guelphhvacpros.ca
+
+Service areas: Guelph, Georgetown, Milton, Fergus, Elora, Acton, Rockwood
 
 ## Key pages
-- [Home](https://guelphhvacpros.ca/)
-- [Services](https://guelphhvacpros.ca/services/)
-- [About](https://guelphhvacpros.ca/about/)
-- [Blog](https://guelphhvacpros.ca/blog/)
-- [Contact](https://guelphhvacpros.ca/contact/)
 
-## Contact
-- Phone: (519) 837-4021
-- Email: contact@guelphhvacpros.ca
-- Area served: Guelph, Ontario and Wellington County
+- [Home](https://guelphhvacpros.ca/): Guelph HVAC Pros homepage with service overview and FAQ
+- [About](https://guelphhvacpros.ca/about/): About the company and service area
+- [Contact](https://guelphhvacpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://guelphhvacpros.ca/services/furnace-repair/): Furnace Installation & Repair in Guelph, Ontario
+- [AC Installation & Repair](https://guelphhvacpros.ca/services/ac-repair/): AC Installation & Repair in Guelph, Ontario
+- [Heat Pumps](https://guelphhvacpros.ca/services/heat-pump-repair-installation/): Heat Pumps in Guelph, Ontario
+- [Duct Cleaning](https://guelphhvacpros.ca/services/duct-cleaning/): Duct Cleaning in Guelph, Ontario
+- [Thermostats](https://guelphhvacpros.ca/services/thermostat-repair-replacement/): Thermostats in Guelph, Ontario
+- [Ductless AC Installation](https://guelphhvacpros.ca/services/ductless-ac-installation/): Ductless AC Installation in Guelph, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Guelph are answered on the homepage.
